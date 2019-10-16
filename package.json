@@ -1,0 +1,22 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "hanyoung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxgray/wetube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xxgray/wetube/issues"
+  },
+  "homepage": "https://github.com/xxgray/wetube#readme"
+}
